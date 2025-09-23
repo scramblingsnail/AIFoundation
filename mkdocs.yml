@@ -1,0 +1,189 @@
+site_name: AI-Foundation
+repo_url: https://github.com/scramblingsnail/CurriculumVitae
+repo_name: AI-Foundation
+copyright: Copyright &copy; Zaizheng Yang.
+
+nav:
+  - Home: index.md
+  - Deep-Learning:
+      - deep_learning/index.md
+      - Transformer:
+          - Pipeline:
+              - deep_learning/transformer/compute_pipeline/tokenize.md
+              - deep_learning/transformer/compute_pipeline/decoding.md
+          - Model-Structure:
+              - deep_learning/transformer/model_structure/attention.md
+              - deep_learning/transformer/model_structure/example.md
+              - deep_learning/transformer/model_structure/fnn.md
+              - deep_learning/transformer/model_structure/position_embedding.md
+              - deep_learning/transformer/model_structure/layer_normalization.md
+              - deep_learning/transformer/model_structure/moe.md
+          - Accleration:
+              - deep_learning/transformer/acceleration/group_query_attention.md
+              - deep_learning/transformer/acceleration/flash_attention.md
+              - deep_learning/transformer/acceleration/paged_attention.md
+              - deep_learning/transformer/acceleration/multihead_latent_attention.md
+              - deep_learning/transformer/acceleration/simplify_attention_compute.md
+          - Quantization:
+              - deep_learning/transformer/quantization/awq.md
+              - deep_learning/transformer/quantization/basic_concept.md
+              - deep_learning/transformer/quantization/gptq.md
+              - deep_learning/transformer/quantization/llm_int8.md
+              - deep_learning/transformer/quantization/smooth_quant.md
+              - deep_learning/transformer/quantization/qlora.md
+          - CIM-for-Transformer:
+              - deep_learning/transformer/with_cim/cim_for_transformer.md
+      - CNN:
+          - Model-Structure:
+              - deep_learning/cnn/model_structure.md
+          - Quantization:
+              - deep_learning/cnn/quantization.md
+      - RNN:
+          - Model-Structure:
+              - deep_learning/rnn/model_structure.md
+  - Reinforcement-Learning:
+      - reinforcement_learning/index.md
+      - reinforcement_learning/basic_concept.md
+      - reinforcement_learning/rl_category.md
+      - reinforcement_learning/dqn.md
+      - reinforcement_learning/d3qn.md
+      - reinforcement_learning/ddpg.md
+      - reinforcement_learning/td3.md
+      - reinforcement_learning/sac.md
+      - reinforcement_learning/ppo.md
+      - reinforcement_learning/grpo.md
+
+  - Machine-Learning:
+      - machine_learning/index.md
+      - machine_learning/knn.md
+      - machine_learning/logist_regression.md
+      - machine_learning/naive_bayes.md
+      - machine_learning/decision_tree.md
+      - machine_learning/boosting_algorithm.md
+      - machine_learning/cluster.md
+      - machine_learning/svm.md
+      - machine_learning/hidden_markov.md
+      - machine_learning/pca.md
+      - machine_learning/page_rank.md
+      - machine_learning/text_mining.md
+
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep-purple
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    # - navigation.instant  # see https://github.com/ultrabug/mkdocs-static-i18n/issues/62
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.path
+    - toc.follow
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.action.view
+    - content.action.edit
+    - content.tabs.link
+    - content.code.copy
+    - content.code.select
+    - content.code.annotations
+  favicon: assets/icon.ico
+  icon:
+    logo: logo
+
+markdown_extensions:
+  # Officially Supported Extensions
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - meta
+  - sane_lists
+  - tables
+  - toc:
+      permalink: true
+  - wikilinks
+  # Third Party Extensions(Bundles, PyMdown Extensions)
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+  - search
+  - include-markdown
+  - mkdocstrings:
+      default_handler: python
+      handlers:
+        python:
+          options:
+            # Headings
+            show_root_heading: true
+            show_root_toc_entry: true
+            show_object_full_path: true
+            # Members
+            show_submodules: false
+            # Docstrings
+            docstring_section_style: spacy
+#  - with-pdf:
+#      verbose: True
+#      author: zhisan
+#      copyright: A-Duiduiduidui Team
+
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      languages:
+        - locale: en
+          default: false
+          name: English
+        - locale: zh
+          default: true
+          name: 中文
+          nav_translations:
+            Home: 主页
+            Deep-Learning: 深度学习
+            Reinforcement-Learning: 强化学习
+            Machine-Learning: 机器学习
+            Transformer: Transformer
+            CNN: CNN
+            RNN: RNN
+            Acceleration: 计算加速手段
+
+markdown_extensions:
+  - pymdownx.arithmatex
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML
