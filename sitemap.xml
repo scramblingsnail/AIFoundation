@@ -2,644 +2,742 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>None./</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="None"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/cnn/model_structure/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/cnn/model_structure/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/cnn/model_structure/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/rnn/model_structure/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/rnn/model_structure/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/rnn/model_structure/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/acceleration/flash_attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/flash_attention/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/flash_attention/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/acceleration/group_query_attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/group_query_attention/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/group_query_attention/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/acceleration/multihead_latent_attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/multihead_latent_attention/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/multihead_latent_attention/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/acceleration/paged_attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/paged_attention/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/paged_attention/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/acceleration/simplify_attention_compute/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/simplify_attention_compute/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/simplify_attention_compute/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/compute_pipeline/decoding/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/compute_pipeline/decoding/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/compute_pipeline/decoding/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/compute_pipeline/tokenize/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/compute_pipeline/tokenize/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/compute_pipeline/tokenize/"/>
     </url>
     <url>
+        <loc>Nonedeep_learning/transformer/llm/QA/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm/QA/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm/QA/"/>
+    </url>
+    <url>
+        <loc>Nonedeep_learning/transformer/llm/architecture/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm/architecture/"/>
+    </url>
+    <url>
+        <loc>Nonedeep_learning/transformer/llm/bert/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm/bert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm/bert/"/>
+    </url>
+    <url>
+        <loc>Nonedeep_learning/transformer/llm_pipeline/fine-tuning/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm_pipeline/fine-tuning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm_pipeline/fine-tuning/"/>
+    </url>
+    <url>
+        <loc>Nonedeep_learning/transformer/llm_pipeline/pretrain/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm_pipeline/pretrain/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm_pipeline/pretrain/"/>
+    </url>
+    <url>
+        <loc>Nonedeep_learning/transformer/llm_pipeline/rag/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm_pipeline/rag/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm_pipeline/rag/"/>
+    </url>
+    <url>
+        <loc>Nonedeep_learning/transformer/llm_pipeline/rlhf/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm_pipeline/rlhf/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm_pipeline/rlhf/"/>
+    </url>
+    <url>
         <loc>Nonedeep_learning/transformer/model_structure/attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/attention/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/attention/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/model_structure/example/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/example/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/example/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/model_structure/fnn/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/fnn/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/fnn/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/model_structure/layer_normalization/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/layer_normalization/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/layer_normalization/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/model_structure/moe/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/moe/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/moe/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/model_structure/position_embedding/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/position_embedding/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/position_embedding/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/quantization/awq/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/awq/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/awq/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/quantization/basic_concept/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/basic_concept/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/basic_concept/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/quantization/gptq/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/gptq/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/gptq/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/quantization/llm_int8/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/llm_int8/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/llm_int8/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/quantization/qlora/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/qlora/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/qlora/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/quantization/smooth_quant/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/smooth_quant/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/smooth_quant/"/>
     </url>
     <url>
         <loc>Nonedeep_learning/transformer/with_cim/cim_for_transformer/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/with_cim/cim_for_transformer/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/with_cim/cim_for_transformer/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/boosting_algorithm/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/boosting_algorithm/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/boosting_algorithm/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/cluster/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/cluster/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/cluster/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/decision_tree/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/decision_tree/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/decision_tree/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/hidden_markov/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/hidden_markov/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/hidden_markov/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/knn/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/knn/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/knn/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/logist_regression/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/logist_regression/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/logist_regression/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/naive_bayes/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/naive_bayes/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/naive_bayes/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/page_rank/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/page_rank/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/page_rank/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/pca/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/pca/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/pca/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/svm/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/svm/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/svm/"/>
     </url>
     <url>
         <loc>Nonemachine_learning/text_mining/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/text_mining/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/text_mining/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/basic_concept/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/basic_concept/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/basic_concept/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/d3qn/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/d3qn/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/d3qn/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/ddpg/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/ddpg/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/ddpg/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/dqn/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/dqn/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/dqn/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/grpo/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/grpo/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/grpo/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/ppo/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/ppo/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/ppo/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/rl_category/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/rl_category/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/rl_category/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/sac/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/sac/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/sac/"/>
     </url>
     <url>
         <loc>Nonereinforcement_learning/td3/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/td3/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/td3/"/>
     </url>
     <url>
         <loc>Noneen/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="None"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/cnn/model_structure/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/cnn/model_structure/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/cnn/model_structure/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/rnn/model_structure/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/rnn/model_structure/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/rnn/model_structure/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/acceleration/flash_attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/flash_attention/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/flash_attention/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/acceleration/group_query_attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/group_query_attention/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/group_query_attention/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/acceleration/multihead_latent_attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/multihead_latent_attention/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/multihead_latent_attention/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/acceleration/paged_attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/paged_attention/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/paged_attention/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/acceleration/simplify_attention_compute/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/acceleration/simplify_attention_compute/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/acceleration/simplify_attention_compute/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/compute_pipeline/decoding/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/compute_pipeline/decoding/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/compute_pipeline/decoding/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/compute_pipeline/tokenize/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/compute_pipeline/tokenize/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/compute_pipeline/tokenize/"/>
     </url>
     <url>
+        <loc>Noneen/deep_learning/transformer/llm/QA/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm/QA/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm/QA/"/>
+    </url>
+    <url>
+        <loc>Noneen/deep_learning/transformer/llm/architecture/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm/architecture/"/>
+    </url>
+    <url>
+        <loc>Noneen/deep_learning/transformer/llm/bert/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm/bert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm/bert/"/>
+    </url>
+    <url>
+        <loc>Noneen/deep_learning/transformer/llm_pipeline/fine-tuning/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm_pipeline/fine-tuning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm_pipeline/fine-tuning/"/>
+    </url>
+    <url>
+        <loc>Noneen/deep_learning/transformer/llm_pipeline/pretrain/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm_pipeline/pretrain/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm_pipeline/pretrain/"/>
+    </url>
+    <url>
+        <loc>Noneen/deep_learning/transformer/llm_pipeline/rag/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm_pipeline/rag/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm_pipeline/rag/"/>
+    </url>
+    <url>
+        <loc>Noneen/deep_learning/transformer/llm_pipeline/rlhf/</loc>
+        <lastmod>2025-10-22</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/llm_pipeline/rlhf/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/llm_pipeline/rlhf/"/>
+    </url>
+    <url>
         <loc>Noneen/deep_learning/transformer/model_structure/attention/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/attention/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/attention/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/model_structure/example/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/example/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/example/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/model_structure/fnn/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/fnn/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/fnn/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/model_structure/layer_normalization/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/layer_normalization/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/layer_normalization/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/model_structure/moe/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/moe/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/moe/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/model_structure/position_embedding/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/model_structure/position_embedding/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/model_structure/position_embedding/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/quantization/awq/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/awq/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/awq/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/quantization/basic_concept/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/basic_concept/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/basic_concept/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/quantization/gptq/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/gptq/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/gptq/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/quantization/llm_int8/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/llm_int8/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/llm_int8/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/quantization/qlora/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/qlora/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/qlora/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/quantization/smooth_quant/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/quantization/smooth_quant/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/quantization/smooth_quant/"/>
     </url>
     <url>
         <loc>Noneen/deep_learning/transformer/with_cim/cim_for_transformer/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/deep_learning/transformer/with_cim/cim_for_transformer/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonedeep_learning/transformer/with_cim/cim_for_transformer/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/boosting_algorithm/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/boosting_algorithm/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/boosting_algorithm/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/cluster/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/cluster/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/cluster/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/decision_tree/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/decision_tree/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/decision_tree/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/hidden_markov/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/hidden_markov/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/hidden_markov/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/knn/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/knn/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/knn/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/logist_regression/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/logist_regression/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/logist_regression/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/naive_bayes/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/naive_bayes/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/naive_bayes/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/page_rank/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/page_rank/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/page_rank/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/pca/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/pca/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/pca/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/svm/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/svm/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/svm/"/>
     </url>
     <url>
         <loc>Noneen/machine_learning/text_mining/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/machine_learning/text_mining/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonemachine_learning/text_mining/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/basic_concept/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/basic_concept/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/basic_concept/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/d3qn/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/d3qn/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/d3qn/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/ddpg/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/ddpg/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/ddpg/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/dqn/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/dqn/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/dqn/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/grpo/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/grpo/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/grpo/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/ppo/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/ppo/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/ppo/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/rl_category/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/rl_category/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/rl_category/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/sac/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/sac/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/sac/"/>
     </url>
     <url>
         <loc>Noneen/reinforcement_learning/td3/</loc>
-        <lastmod>2025-09-23</lastmod>
+        <lastmod>2025-10-22</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/reinforcement_learning/td3/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonereinforcement_learning/td3/"/>
